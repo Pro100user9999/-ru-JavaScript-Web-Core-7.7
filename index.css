@@ -78,6 +78,7 @@ body {
     max-height: 100%;
     box-shadow: 0 15px 35px rgba(0, 0, 0, 0.411);
     gap: 1rem;
+    font-size: 12px;
 }
 .modal-content h2 {
   display: flex;
@@ -111,6 +112,7 @@ body {
     font-size: 14px;
     border-radius: 2rem;
     margin: 0 auto;
+    font-size: 14px;
   }
   .modal-content h2 {
   display: flex;
@@ -127,6 +129,7 @@ body {
     font-size: 14px;
     border-radius: 2rem;
     margin: 0 auto;
+    font-size: 14px;
   }
   .modal-content h2 {
     display: flex;
